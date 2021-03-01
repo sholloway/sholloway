@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome
 
-<!--
-**sholloway/sholloway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me
+- I work professionally as a software architect.
+- I'm currently having fun studying ML techniques, Game Development with Godot, and upping my Python game.
+- I love sci-fi, a wide variety of music, and coffee.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech Stack
+- Languages: JavaScript | Python | Java | Scala | Apex
+- Frameworks: Node.js | Web Components | React | Godot
+- Data: PostgreSQL | Apache Kafka | Redis 
+- Platforms: Salesforce | B2C Commerce | AWS | Heroku
+- Tooling: VSCode | Jupyter Notebooks | Git | TaskWarrior | zsh
+- OS: macOS | Ubuntu 
