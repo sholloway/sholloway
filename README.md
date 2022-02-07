@@ -5,10 +5,10 @@
 - I'm currently having fun studying ML techniques, Game Development with Godot, and upping my Python game.
 - I love sci-fi, a wide variety of music, and coffee.
 
-#### Tech Stack
-- Languages: JavaScript | Python | Java | Scala | Apex
-- Frameworks: Node.js | Web Components | React | Godot
-- Data: PostgreSQL | Apache Kafka | Redis 
-- Platforms: Salesforce | B2C Commerce | AWS | Heroku
-- Tooling: VSCode | Jupyter Notebooks | Git | TaskWarrior | zsh
+#### Frequent Tech Stack
+- Languages: Apex | Java | JavaScript | Python | Scala 
+- Frameworks: Godot | Node.js | React | Web Components 
+- Data:  Apache Kafka | PostgreSQL | Redis 
+- Platforms: AWS | Heroku | Salesforce
+- Tooling: Git | Jupyter Notebooks | TaskWarrior | VSCode | zsh
 - OS: macOS | Ubuntu 
