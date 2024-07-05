@@ -2,7 +2,7 @@
 
 #### About Me
 - I work professionally as a software architect.
-- I'm currently having fun studying ML techniques, Game Development with Godot, and upping my Python game.
+- I'm currently having fun studying ML techniques, Game Development, and upping my Python game.
 - I love sci-fi, a wide variety of music, and coffee.
 
 #### Frequent Tech Stack
